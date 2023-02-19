@@ -238,12 +238,12 @@
         
         3.  **`insert()`** - This method inserts an element at a specified index in the list.
         
-        ```python
-        fruits = ['apple', 'banana', 'cherry']
-        fruits.insert(1, 'orange')
-        print(fruits)
-        ['apple', 'orange', 'banana', 'cherry']
-        ```
+            ```python
+            fruits = ['apple', 'banana', 'cherry']
+            fruits.insert(1, 'orange')
+            print(fruits)
+            ['apple', 'orange', 'banana', 'cherry']
+            ```
         
         1.  **`remove()`** - This method removes the first occurrence of a specified element in the list.
             
