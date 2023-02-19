@@ -1,0 +1,33 @@
+version: 1
+formatters:
+  default:
+    format: "%(asctime)s - %(levelname)s - %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+  file_default:
+    format: "%(asctime)s - %(levelname)s - %(message)s at module:%(module)s - function_name:%(funcName)s -line no:%(lineno)d"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+handlers:
+  default:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: default
+    stream: ext://sys.stdout
+  fileHandler:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: file_default
+    maxBytes: 102400
+    backupCount: 3
+    filename: logs/weather_app.log
+loggers:
+  default:
+    level: INFO
+    handlers: [default]
+    propagate: no
+  fileHandlingLogger:
+    level: INFO
+    handlers: [fileHandler]
+    propagate: no
+root:
+  level: INFO
+  handlers: [fileHandler]

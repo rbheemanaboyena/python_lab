@@ -1,0 +1,18 @@
+WeatherDataIngest:
+  runtime: python3.9
+  handler: data_ingest.lambda_handler
+  role: ${self:custom.env.LAMBDAS_CONFIG.lambdaMainRole}
+  architecture: arm64
+  events:
+  environment:
+    BUCKET_NAME: ${self:custom.env.S3_CONFIG.WeatherDataBucket}
+    region: ${self:provider.region}
+    maxRetry: ${self:custom.env.LAMBDAS_CONFIG.lambdaMaxRetryDefault}
+    logLevel: ${self:custom.env.LAMBDAS_CONFIG.defaultLogLevel}
+    env: ${self:provider.stage}
+  memorySize: ${self:custom.env.LAMBDAS_CONFIG.packageStreamLambdaMemory}
+  timeout: 120
+  name: ${self:custom.env.LAMBDAS_CONFIG.WeatherData}
+  description: Lambda to run  weather data ingestion
+  package:
+    artifact: src\target\weatherlambdafunction.zip

@@ -1,0 +1,843 @@
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.754037: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1990, 'USC00110072', 16.900273972602754, 5.96027397260274, 3.2038356164383566)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.767714: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1991, 'USC00110072', 16.372046109510084, 5.283861671469739, 2.248414985590778)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.780121: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1992, 'USC00110072', 14.934722222222243, 4.991666666666662, 2.5905555555555533)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.792540: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1993, 'USC00110072', 13.911680911680904, 4.810256410256408, 3.8689458689458696)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.804905: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1994, 'USC00110072', 13.994197952218425, 3.0825938566552904, 2.213310580204779)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.817373: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1995, 'USC00110072', 15.04373177842566, 3.713994169096209, 2.2950437317784242)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.829915: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1996, 'USC00110072', 14.009090909090911, 2.690056818181819, 2.2644886363636356)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.842528: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1997, 'USC00110072', 14.855898876404478, 3.384550561797756, 2.1727528089887636)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.855352: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110187', 30.4945652173913, 18.351086956521748, 4.35108695652174)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.868217: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1998, 'USC00110072', 17.27147147147147, 6.288288288288291, 2.5072072072072062)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.880837: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1999, 'USC00110072', 16.528405797101456, 4.500579710144926, 2.5321739130434775)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.893563: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2000, 'USC00110072', 14.829518072289167, 3.0524096385542188, 2.3978915662650606)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.906342: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2001, 'USC00110072', 15.80000000000001, 4.420402298850573, 3.1089080459770098)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.918953: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2002, 'USC00110072', 15.617563739376763, 4.014447592067985, 2.5535410764872513)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.931625: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2003, 'USC00110072', 14.822413793103447, 2.8640804597701157, 2.185632183908046)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.944460: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2004, 'USC00110072', 14.976704545454536, 4.045454545454546, 2.727272727272727)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.957346: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2005, 'USC00110072', 16.20115606936418, 4.65491329479769, 1.6552023121387287)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.970159: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2006, 'USC00110072', 16.158238636363635, 5.115340909090914, 2.1650568181818177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.982766: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2007, 'USC00110072', 15.522766570605171, 4.147262247838616, 2.19221902017291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:20 - ERROR - Duplicate record for date 2023-02-16 01:49:20.995399: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2008, 'USC00110072', 14.308522727272726, 3.025852272727275, 3.588068181818181)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.008029: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2009, 'USC00110072', 14.433048433048446, 3.9373219373219355, 3.6911680911680897)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.020785: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2010, 'USC00110072', 15.272256097560977, 4.553963414634148, 3.4185975609756096)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.033710: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2011, 'USC00110072', 15.38867403314917, 4.4950276243093965, 2.3682320441988938)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.046408: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2012, 'USC00110072', 17.457022471910115, 5.516011235955065, 2.0926966292134828)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.059128: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2013, 'USC00110072', 15.31713483146067, 3.536516853932586, 2.279213483146066)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - ERROR - Duplicate record for date 2023-02-16 01:49:21.071875: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2014, 'USC00110072', 13.793905817174513, 2.3495844875346297, 2.730747922437672)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:49:21 - INFO - Ingested 32 records at module:data_ingest - function_name:stats -line no:146
+2023-02-16 01:50:13 - INFO - Ingestion process started at 2023-02-16 01:50:13.276262 at module:data_ingest - function_name:main -line no:158
+2023-02-16 01:50:15 - INFO - Ingested 0 records in 0:00:02.203232 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:50:15 - INFO - 0 at module:data_ingest - function_name:main -line no:163
+2023-02-16 01:50:15 - INFO - Ingested 0 records in 0:00:02.404218 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:50:15 - INFO - 0 at module:data_ingest - function_name:main -line no:163
+2023-02-16 01:50:15 - INFO - Ingestion process completed at 2023-02-16 01:50:15.681281 at module:data_ingest - function_name:main -line no:165
+2023-02-16 01:50:15 - INFO - Total time taken for ingestion: 0:00:02.405019 at module:data_ingest - function_name:main -line no:166
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.789873: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110072', 15.44668508287293, 4.405801104972372, 2.1389502762430928)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.804430: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110187', -4.4, -7.2, 5.3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.821501: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110072', 12.696336996337003, 2.176190476190476, 1.8509157509157517)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.835560: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1987, 'USC00110072', 17.76027397260273, 6.329863013698638, 2.1742465753424667)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.849535: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1988, 'USC00110072', 17.347267759562843, 4.534972677595632, 1.4781420765027327)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.863046: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1989, 'USC00110072', 15.651506849315071, 3.983561643835613, 2.1745205479452054)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.876025: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1990, 'USC00110072', 16.900273972602754, 5.96027397260274, 3.2038356164383566)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.889342: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1991, 'USC00110072', 16.372046109510084, 5.283861671469739, 2.248414985590778)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.902624: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1992, 'USC00110072', 14.934722222222243, 4.991666666666662, 2.5905555555555533)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.916130: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1993, 'USC00110072', 13.911680911680904, 4.810256410256408, 3.8689458689458696)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.928729: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1994, 'USC00110072', 13.994197952218425, 3.0825938566552904, 2.213310580204779)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.941798: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1995, 'USC00110072', 15.04373177842566, 3.713994169096209, 2.2950437317784242)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.954517: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1996, 'USC00110072', 14.009090909090911, 2.690056818181819, 2.2644886363636356)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.967299: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1997, 'USC00110072', 14.855898876404478, 3.384550561797756, 2.1727528089887636)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.979768: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110187', 30.4945652173913, 18.351086956521748, 4.35108695652174)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:15 - ERROR - Duplicate record for date 2023-02-16 01:50:15.992271: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1998, 'USC00110072', 17.27147147147147, 6.288288288288291, 2.5072072072072062)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.004878: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1999, 'USC00110072', 16.528405797101456, 4.500579710144926, 2.5321739130434775)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.018152: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2000, 'USC00110072', 14.829518072289167, 3.0524096385542188, 2.3978915662650606)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.038929: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2001, 'USC00110072', 15.80000000000001, 4.420402298850573, 3.1089080459770098)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.053924: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2002, 'USC00110072', 15.617563739376763, 4.014447592067985, 2.5535410764872513)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.074227: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2003, 'USC00110072', 14.822413793103447, 2.8640804597701157, 2.185632183908046)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.091596: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2004, 'USC00110072', 14.976704545454536, 4.045454545454546, 2.727272727272727)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.106052: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2005, 'USC00110072', 16.20115606936418, 4.65491329479769, 1.6552023121387287)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.119546: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2006, 'USC00110072', 16.158238636363635, 5.115340909090914, 2.1650568181818177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.133074: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2007, 'USC00110072', 15.522766570605171, 4.147262247838616, 2.19221902017291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.146592: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2008, 'USC00110072', 14.308522727272726, 3.025852272727275, 3.588068181818181)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.160456: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2009, 'USC00110072', 14.433048433048446, 3.9373219373219355, 3.6911680911680897)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.174242: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2010, 'USC00110072', 15.272256097560977, 4.553963414634148, 3.4185975609756096)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.187787: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2011, 'USC00110072', 15.38867403314917, 4.4950276243093965, 2.3682320441988938)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.201465: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2012, 'USC00110072', 17.457022471910115, 5.516011235955065, 2.0926966292134828)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.214932: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2013, 'USC00110072', 15.31713483146067, 3.536516853932586, 2.279213483146066)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - ERROR - Duplicate record for date 2023-02-16 01:50:16.228083: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2014, 'USC00110072', 13.793905817174513, 2.3495844875346297, 2.730747922437672)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:50:16 - INFO - Ingested 32 records at module:data_ingest - function_name:stats -line no:146
+2023-02-16 01:53:10 - INFO - Ingestion process started at 2023-02-16 01:53:10.998275 at module:data_ingest - function_name:main -line no:159
+2023-02-16 01:53:13 - INFO - Ingested 0 records in 0:00:02.333011 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:53:13 - INFO - 0 at module:data_ingest - function_name:main -line no:164
+2023-02-16 01:53:13 - INFO - Ingested 0 records in 0:00:02.343959 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:53:13 - INFO - 0 at module:data_ingest - function_name:main -line no:164
+2023-02-16 01:53:13 - INFO - Ingestion process completed at 2023-02-16 01:53:13.343185 at module:data_ingest - function_name:main -line no:166
+2023-02-16 01:53:13 - INFO - Total time taken for ingestion: 0:00:02.344910 at module:data_ingest - function_name:main -line no:167
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.452378: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110072', 15.44668508287293, 4.405801104972372, 2.1389502762430928)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.467542: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110187', -4.4, -7.2, 5.3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.480491: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110072', 12.696336996337003, 2.176190476190476, 1.8509157509157517)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.493470: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1987, 'USC00110072', 17.76027397260273, 6.329863013698638, 2.1742465753424667)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.506553: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1988, 'USC00110072', 17.347267759562843, 4.534972677595632, 1.4781420765027327)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.519398: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1989, 'USC00110072', 15.651506849315071, 3.983561643835613, 2.1745205479452054)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.532174: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1990, 'USC00110072', 16.900273972602754, 5.96027397260274, 3.2038356164383566)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.545006: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1991, 'USC00110072', 16.372046109510084, 5.283861671469739, 2.248414985590778)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.557766: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1992, 'USC00110072', 14.934722222222243, 4.991666666666662, 2.5905555555555533)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.570683: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1993, 'USC00110072', 13.911680911680904, 4.810256410256408, 3.8689458689458696)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.583698: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1994, 'USC00110072', 13.994197952218425, 3.0825938566552904, 2.213310580204779)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.597004: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1995, 'USC00110072', 15.04373177842566, 3.713994169096209, 2.2950437317784242)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.610226: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1996, 'USC00110072', 14.009090909090911, 2.690056818181819, 2.2644886363636356)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.623004: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1997, 'USC00110072', 14.855898876404478, 3.384550561797756, 2.1727528089887636)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.635954: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110187', 30.4945652173913, 18.351086956521748, 4.35108695652174)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.648756: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1998, 'USC00110072', 17.27147147147147, 6.288288288288291, 2.5072072072072062)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.661719: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1999, 'USC00110072', 16.528405797101456, 4.500579710144926, 2.5321739130434775)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.674896: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2000, 'USC00110072', 14.829518072289167, 3.0524096385542188, 2.3978915662650606)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.688027: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2001, 'USC00110072', 15.80000000000001, 4.420402298850573, 3.1089080459770098)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.700989: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2002, 'USC00110072', 15.617563739376763, 4.014447592067985, 2.5535410764872513)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.713939: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2003, 'USC00110072', 14.822413793103447, 2.8640804597701157, 2.185632183908046)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.726929: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2004, 'USC00110072', 14.976704545454536, 4.045454545454546, 2.727272727272727)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.739996: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2005, 'USC00110072', 16.20115606936418, 4.65491329479769, 1.6552023121387287)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.753113: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2006, 'USC00110072', 16.158238636363635, 5.115340909090914, 2.1650568181818177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.766070: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2007, 'USC00110072', 15.522766570605171, 4.147262247838616, 2.19221902017291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.779207: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2008, 'USC00110072', 14.308522727272726, 3.025852272727275, 3.588068181818181)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.792352: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2009, 'USC00110072', 14.433048433048446, 3.9373219373219355, 3.6911680911680897)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.805554: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2010, 'USC00110072', 15.272256097560977, 4.553963414634148, 3.4185975609756096)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.818586: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2011, 'USC00110072', 15.38867403314917, 4.4950276243093965, 2.3682320441988938)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.831550: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2012, 'USC00110072', 17.457022471910115, 5.516011235955065, 2.0926966292134828)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.844444: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2013, 'USC00110072', 15.31713483146067, 3.536516853932586, 2.279213483146066)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - ERROR - Duplicate record for date 2023-02-16 01:53:13.857378: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2014, 'USC00110072', 13.793905817174513, 2.3495844875346297, 2.730747922437672)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:53:13 - INFO - Ingested 32 records at module:data_ingest - function_name:stats -line no:146
+2023-02-16 01:54:17 - INFO - Ingestion process started at 2023-02-16 01:54:17.571192 at module:data_ingest - function_name:main -line no:156
+2023-02-16 01:54:46 - INFO - Ingested 0 records in 0:00:28.637602 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:54:46 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:54:51 - INFO - Ingested 0 records in 0:00:33.494326 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:54:51 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:05 - INFO - Ingested 0 records in 0:00:47.891583 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:05 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:06 - INFO - Ingested 0 records in 0:00:49.064803 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:11 - INFO - Ingested 0 records in 0:00:53.151425 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:11 - INFO - Ingested 0 records in 0:00:53.587047 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:11 - INFO - Ingested 0 records in 0:00:53.909760 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:12 - INFO - Ingested 0 records in 0:00:54.427002 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:12 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:12 - INFO - Ingested 0 records in 0:00:54.802148 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:12 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:13 - INFO - Ingested 0 records in 0:00:55.391801 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:13 - INFO - Ingested 0 records in 0:00:55.488144 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:13 - INFO - Ingested 0 records in 0:00:55.930465 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:14 - INFO - Ingested 0 records in 0:00:56.284066 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:14 - INFO - Ingested 0 records in 0:00:56.256915 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:14 - INFO - Ingested 0 records in 0:00:56.923831 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:15 - INFO - Ingested 0 records in 0:00:57.580028 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:15 - INFO - Ingested 0 records in 0:00:58.004165 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:58.173953 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:58.729302 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:58.789312 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:58.867656 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:58.908479 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:16 - INFO - Ingested 0 records in 0:00:59.109098 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:17 - INFO - Ingested 0 records in 0:00:59.600356 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:18 - INFO - Ingested 0 records in 0:01:00.679360 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:18 - INFO - Ingested 0 records in 0:01:01.100835 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:18 - INFO - Ingested 0 records in 0:01:01.158750 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:19 - INFO - Ingested 0 records in 0:01:01.472519 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:19 - INFO - Ingested 0 records in 0:01:01.372665 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:19 - INFO - Ingested 0 records in 0:01:01.598448 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:20 - INFO - Ingested 0 records in 0:01:02.654482 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:20 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:20 - INFO - Ingested 0 records in 0:01:02.674019 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:20 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:20 - INFO - Ingested 0 records in 0:01:03.007912 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:20 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:21 - INFO - Ingested 0 records in 0:01:03.837091 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:21 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:21 - INFO - Ingested 0 records in 0:01:04.324963 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:21 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:22 - INFO - Ingested 0 records in 0:01:04.766632 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:22 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:23 - INFO - Ingested 0 records in 0:01:05.754558 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:23 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:23 - INFO - Ingested 0 records in 0:01:06.091677 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:23 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:23 - INFO - Ingested 0 records in 0:01:06.322303 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:23 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:24 - INFO - Ingested 0 records in 0:01:06.600752 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:24 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:30 - INFO - Ingested 0 records in 0:00:39.669080 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:30 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:42 - INFO - Ingested 0 records in 0:00:56.346301 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:42 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:55:52 - INFO - Ingested 0 records in 0:00:36.454622 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:55:52 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:02 - INFO - Ingested 0 records in 0:00:49.069444 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:02 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:03 - INFO - Ingested 0 records in 0:00:52.606986 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:03 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:05 - INFO - Ingested 0 records in 0:00:52.803073 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:05 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:06 - INFO - Ingested 0 records in 0:00:55.007115 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:06 - INFO - Ingested 0 records in 0:01:01.068327 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:06 - INFO - Ingested 0 records in 0:00:52.533038 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:06 - INFO - Ingested 0 records in 0:00:49.321376 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:08 - INFO - Ingested 0 records in 0:00:53.470165 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:08 - INFO - Ingested 0 records in 0:00:55.075767 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:08 - INFO - Ingested 0 records in 0:00:54.270211 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:09 - INFO - Ingested 0 records in 0:00:49.243361 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:09 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:09 - INFO - Ingested 0 records in 0:01:03.032345 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:09 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:10 - INFO - Ingested 0 records in 0:00:51.664345 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:10 - INFO - Ingested 0 records in 0:00:54.718735 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:11 - INFO - Ingested 0 records in 0:00:52.605763 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:11 - INFO - Ingested 0 records in 0:00:54.700068 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:11 - INFO - Ingested 0 records in 0:00:59.229978 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:13 - INFO - Ingested 0 records in 0:00:56.824857 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:14 - INFO - Ingested 0 records in 0:00:57.516767 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:14 - INFO - Ingested 0 records in 0:00:57.952472 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:14 - INFO - Ingested 0 records in 0:00:57.793606 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:16 - INFO - Ingested 0 records in 0:01:01.427178 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:17 - INFO - Ingested 0 records in 0:00:58.588277 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:18 - INFO - Ingested 0 records in 0:01:05.031245 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:18 - INFO - Ingested 0 records in 0:00:54.773094 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:19 - INFO - Ingested 0 records in 0:01:07.983850 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:19 - INFO - Ingested 0 records in 0:01:00.229248 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:20 - INFO - Ingested 0 records in 0:01:01.776849 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:20 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:25 - INFO - Ingested 0 records in 0:01:03.933753 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:25 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:25 - INFO - Ingested 0 records in 0:01:05.707246 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:25 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:26 - INFO - Ingested 0 records in 0:01:05.469335 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:26 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:26 - INFO - Ingested 0 records in 0:01:05.268255 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:26 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:28 - INFO - Ingested 0 records in 0:01:08.996321 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:28 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:28 - INFO - Ingested 0 records in 0:01:05.894335 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:28 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:28 - INFO - Ingested 0 records in 0:01:05.540867 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:28 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:30 - INFO - Ingested 0 records in 0:01:06.441403 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:30 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:32 - INFO - Ingested 0 records in 0:01:01.414531 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:32 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:34 - INFO - Ingested 0 records in 0:01:10.598110 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:34 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:36 - INFO - Ingested 0 records in 0:00:54.141048 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:36 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:42 - INFO - Ingested 0 records in 0:00:32.902323 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:42 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:52 - INFO - Ingested 0 records in 0:00:49.209139 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:52 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:55 - INFO - Ingested 0 records in 0:00:52.609780 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:55 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:58 - INFO - Ingested 0 records in 0:01:06.119331 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:58 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:59 - INFO - Ingested 0 records in 0:00:52.581550 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:59 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:56:59 - INFO - Ingested 0 records in 0:00:54.573657 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:56:59 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:00 - INFO - Ingested 0 records in 0:00:51.627751 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:00 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:00 - INFO - Ingested 0 records in 0:00:53.388048 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:00 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:01 - INFO - Ingested 0 records in 0:00:53.609662 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:01 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:02 - INFO - Ingested 0 records in 0:00:53.900135 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:02 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:04 - INFO - Ingested 0 records in 0:00:54.046103 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:04 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:06 - INFO - Ingested 0 records in 0:00:59.528785 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:06 - INFO - Ingested 0 records in 0:00:52.026478 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:06 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:08 - INFO - Ingested 0 records in 0:00:54.707468 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:08 - INFO - Ingested 0 records in 0:00:57.552115 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:00:55.918402 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:00:58.288292 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:01:03.493880 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:00:55.835862 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:01:01.088465 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:10 - INFO - Ingested 0 records in 0:00:59.364241 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:10 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:13 - INFO - Ingested 0 records in 0:01:02.693705 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:18 - INFO - Ingested 0 records in 0:00:58.426105 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:18 - INFO - Ingested 0 records in 0:01:01.257284 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:18 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:19 - INFO - Ingested 0 records in 0:01:03.218926 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:19 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:20 - INFO - Ingested 0 records in 0:00:51.932687 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:20 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:21 - INFO - Ingested 0 records in 0:00:10.707705 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:21 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:22 - INFO - Ingested 0 records in 0:01:04.435716 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:22 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:23 - INFO - Ingested 0 records in 0:01:03.057055 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:23 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:26 - INFO - Ingested 0 records in 0:01:00.999405 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:26 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:27 - INFO - Ingested 0 records in 0:01:08.484181 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:27 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:29 - INFO - Ingested 0 records in 0:01:04.012095 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:29 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:30 - INFO - Ingested 0 records in 0:01:11.436961 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:30 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:31 - INFO - Ingested 0 records in 0:00:54.452918 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:31 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:31 - INFO - Ingested 0 records in 0:01:05.448424 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:31 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:32 - INFO - Ingested 0 records in 0:01:06.157703 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:32 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:35 - INFO - Ingested 0 records in 0:01:06.998265 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:35 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:35 - INFO - Ingested 0 records in 0:01:03.491166 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:35 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:37 - INFO - Ingested 0 records in 0:01:08.941042 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:37 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:39 - INFO - Ingested 0 records in 0:00:31.254453 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:39 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:39 - INFO - Ingested 0 records in 0:01:09.739347 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:39 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:44 - INFO - Ingested 0 records in 0:00:51.392022 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:44 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:44 - INFO - Ingested 0 records in 0:01:09.887995 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:44 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:44 - INFO - Ingested 0 records in 0:00:44.746815 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:44 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:45 - INFO - Ingested 0 records in 0:00:40.237352 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:45 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:45 - INFO - Ingested 0 records in 0:01:02.619099 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:45 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:49 - INFO - Ingested 0 records in 0:00:53.916170 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:49 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:49 - INFO - Ingested 0 records in 0:00:50.662433 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:49 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:49 - INFO - Ingested 0 records in 0:00:49.964309 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:50 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:52 - INFO - Ingested 0 records in 0:00:53.036883 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:52 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:54 - INFO - Ingested 0 records in 0:00:44.600675 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:54 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:55 - INFO - Ingested 0 records in 0:00:48.367669 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:55 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:55 - INFO - Ingested 0 records in 0:00:52.910753 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:55 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:55 - INFO - Ingested 0 records in 0:00:45.752678 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:55 - INFO - Ingested 0 records in 0:00:53.947689 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:55 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:55 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:57:58 - INFO - Ingested 0 records in 0:00:59.872144 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:57:58 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:00 - INFO - Ingested 0 records in 0:00:51.671338 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:00 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:01 - INFO - Ingested 0 records in 0:00:50.961747 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:01 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:02 - INFO - Ingested 0 records in 0:00:56.185281 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:02 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:05 - INFO - Ingested 0 records in 0:00:55.037571 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:05 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:07 - INFO - Ingested 0 records in 0:00:54.822195 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:07 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:08 - INFO - Ingested 0 records in 0:00:57.522270 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:08 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:09 - INFO - Ingested 0 records in 0:00:50.669504 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:09 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:09 - INFO - Ingested 0 records in 0:00:51.565623 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:09 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:09 - INFO - Ingested 0 records in 0:00:48.846751 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:09 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:11 - INFO - Ingested 0 records in 0:00:40.083585 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:11 - INFO - Ingested 0 records in 0:00:51.431174 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:11 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:13 - INFO - Ingested 0 records in 0:00:50.085770 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:13 - INFO - Ingested 0 records in 0:00:42.019429 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:13 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:14 - INFO - Ingested 0 records in 0:00:51.132584 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:14 - INFO - Ingested 0 records in 0:00:47.245926 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:14 - INFO - Ingested 0 records in 0:00:53.499133 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:14 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:15 - INFO - Ingested 0 records in 0:00:30.441859 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:15 - INFO - Ingested 0 records in 0:00:30.867956 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:15 - INFO - Ingested 0 records in 0:00:48.294244 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:15 - INFO - Ingested 0 records in 0:00:45.921879 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:15 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:16 - INFO - Ingested 0 records in 0:00:31.725211 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:16 - INFO - Ingested 0 records in 0:00:40.604777 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:16 - INFO - Ingested 0 records in 0:00:37.079359 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:16 - INFO - Ingested 0 records in 0:00:45.113508 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:16 - INFO - Ingested 0 records in 0:00:43.901688 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:16 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:17 - INFO - Ingested 0 records in 0:00:41.995643 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:17 - INFO - Ingested 0 records in 0:00:39.981987 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:17 - INFO - Ingested 0 records in 0:00:37.400038 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:17 - INFO - Ingested 0 records in 0:00:32.908602 at module:data_ingest - function_name:ingest_data -line no:81
+2023-02-16 01:58:17 - INFO - 0 at module:data_ingest - function_name:main -line no:161
+2023-02-16 01:58:17 - INFO - Ingestion process completed at 2023-02-16 01:58:17.313383 at module:data_ingest - function_name:main -line no:163
+2023-02-16 01:58:17 - INFO - Total time taken for ingestion: 0:03:59.742191 at module:data_ingest - function_name:main -line no:164
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.421488: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110072', 15.44668508287293, 4.405801104972372, 2.1389502762430928)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.436451: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1985, 'USC00110187', -4.4, -7.2, 5.3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.449615: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110072', 12.696336996337003, 2.176190476190476, 1.8509157509157517)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.462735: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1987, 'USC00110072', 17.76027397260273, 6.329863013698638, 2.1742465753424667)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.475731: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1988, 'USC00110072', 17.347267759562843, 4.534972677595632, 1.4781420765027327)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.488633: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1989, 'USC00110072', 15.651506849315071, 3.983561643835613, 2.1745205479452054)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.501489: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1990, 'USC00110072', 16.900273972602754, 5.96027397260274, 3.2038356164383566)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.514332: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1991, 'USC00110072', 16.372046109510084, 5.283861671469739, 2.248414985590778)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.527174: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1992, 'USC00110072', 14.934722222222243, 4.991666666666662, 2.5905555555555533)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.540133: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1993, 'USC00110072', 13.911680911680904, 4.810256410256408, 3.8689458689458696)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.552990: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1994, 'USC00110072', 13.994197952218425, 3.0825938566552904, 2.213310580204779)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.565769: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1995, 'USC00110072', 15.04373177842566, 3.713994169096209, 2.2950437317784242)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.578651: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1996, 'USC00110072', 14.009090909090911, 2.690056818181819, 2.2644886363636356)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.591397: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1997, 'USC00110072', 14.855898876404478, 3.384550561797756, 2.1727528089887636)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.604099: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1986, 'USC00110187', 30.4945652173913, 18.351086956521748, 4.35108695652174)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.616885: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1998, 'USC00110072', 17.27147147147147, 6.288288288288291, 2.5072072072072062)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.629666: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1999, 'USC00110072', 16.528405797101456, 4.500579710144926, 2.5321739130434775)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.642508: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2000, 'USC00110072', 14.829518072289167, 3.0524096385542188, 2.3978915662650606)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.655293: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2001, 'USC00110072', 15.80000000000001, 4.420402298850573, 3.1089080459770098)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.668075: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2002, 'USC00110072', 15.617563739376763, 4.014447592067985, 2.5535410764872513)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.680861: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2003, 'USC00110072', 14.822413793103447, 2.8640804597701157, 2.185632183908046)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.693543: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2004, 'USC00110072', 14.976704545454536, 4.045454545454546, 2.727272727272727)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.706683: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2005, 'USC00110072', 16.20115606936418, 4.65491329479769, 1.6552023121387287)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.719634: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2006, 'USC00110072', 16.158238636363635, 5.115340909090914, 2.1650568181818177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.732433: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2007, 'USC00110072', 15.522766570605171, 4.147262247838616, 2.19221902017291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.745317: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2008, 'USC00110072', 14.308522727272726, 3.025852272727275, 3.588068181818181)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.758049: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2009, 'USC00110072', 14.433048433048446, 3.9373219373219355, 3.6911680911680897)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.770907: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2010, 'USC00110072', 15.272256097560977, 4.553963414634148, 3.4185975609756096)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.783752: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2011, 'USC00110072', 15.38867403314917, 4.4950276243093965, 2.3682320441988938)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.796599: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2012, 'USC00110072', 17.457022471910115, 5.516011235955065, 2.0926966292134828)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.809464: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2013, 'USC00110072', 15.31713483146067, 3.536516853932586, 2.279213483146066)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - ERROR - Duplicate record for date 2023-02-16 01:58:17.822263: (sqlite3.IntegrityError) UNIQUE constraint failed: weather_stats.year
+[SQL: INSERT INTO weather_stats (year, station, avg_max_temp, avg_min_temp, total_precipitation) VALUES (?, ?, ?, ?, ?)]
+[parameters: (2014, 'USC00110072', 13.793905817174513, 2.3495844875346297, 2.730747922437672)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) at module:data_ingest - function_name:stats -line no:135
+2023-02-16 01:58:17 - INFO - Ingested 32 records at module:data_ingest - function_name:stats -line no:146

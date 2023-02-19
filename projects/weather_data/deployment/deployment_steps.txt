@@ -1,0 +1,19 @@
+Please make sure below libs exist:
+    npm install serverless-api-compression
+    npm install serverless-plugin-lambda-dead-letter
+    npm install serverless-plugin-scripts
+    npm install serverless-plugin-split-stacks
+    npm install serverless-plugin-existing-s3
+    npm install serverless-content-encoding
+    npm install serverless-deployment-bucket
+    npm install serverless-add-api-key
+
+Run the serverless deployment script for lambda
+    serverless deploy --config serverless-data-ingest.yml  --stage dev
+
+
+CloudWatch configuration
+    Run Below 3 commands to enable awslogsd
+        sudo systemctl stop awslogsd
+        sudo systemctl start awslogsd
+        sudo systemctl status awslogsd

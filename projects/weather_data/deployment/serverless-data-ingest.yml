@@ -1,0 +1,44 @@
+service: weather_data
+
+plugins:
+  - serverless-plugin-lambda-dead-letter 
+  - serverless-plugin-scripts
+  - serverless-plugin-existing-s3
+  - serverless-api-compression
+  - serverless-deployment-bucket
+  - serverless-add-api-key
+
+package:
+  individually: true
+
+provider:
+  name: aws
+  stage: ${opt:stage, 'dev'}
+  region: ${opt:region, 'us-east-1'}
+  endpointType: REGIONAL
+  stackTags:
+    Owner: ${self:custom.env.TAGS.Owner}
+    Application: ${self:custom.env.TAGS.Application}
+    Project: ${self:custom.env.TAGS.Project}
+  vpc:
+    securityGroupIds:
+      - ${self:custom.env.VPC_CONFIG.securityGroupId}
+    subnetIds:
+      - ${self:custom.env.VPC_CONFIG.subnetId1}  
+      - ${self:custom.env.VPC_CONFIG.subnetId2} 
+  deploymentBucket:	
+     name: ${self:custom.env.S3_CONFIG.DeploymentBucket}
+     blockPublicAccess: true
+  stackName: ${self:custom.env.DEPLOY_STACK.lambdaStackWeatherApp}
+
+custom:
+  env: ${file(env/${self:provider.stage}.yml)}
+
+
+functions: ${file(resources/lambda.yml)}
+
+resources:
+  Outputs:
+    ServerlessDeploymentBucketName:
+      Export:
+        Name: ${self:service}-${self:provider.stage}-${self:custom.env.DEPLOY_STACK.lambdaStackWeatherApp}

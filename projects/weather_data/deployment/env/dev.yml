@@ -1,0 +1,27 @@
+ACCOUNT:
+  awsAccount: 
+API_CONFIG:
+  contentType: application/json
+DEPLOY_STACK:
+  lambdaStack: 
+  s3StackName: 
+LAMBDAS_CONFIG:
+  lambdaMainRole: arn:aws
+  layerStackName: 
+  lambdaMaxRetryDefault: 2
+  lambdaRole: arn:aws
+  defaultLogLevel: INFO
+  packageStreamLambdaMemory: 1024
+  retryLambdaMemory: 512
+
+S3_CONFIG:
+  DeploymentBucket: arn:aws:s3
+EMAIL_CONFIG:
+  emailAddress: raj.bheemana@gamil.com
+TAGS:
+  Owner: Rajesh_Bheemanaboyena
+  Application: Weather
+  Project: Weather_app
+VPC_CONFIG:
+  securityGroupId: 
+  subnetId1: 
