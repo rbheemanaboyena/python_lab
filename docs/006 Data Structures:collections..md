@@ -137,7 +137,7 @@
     
     Lists are ordered collections of elements that can be of any data type, including other lists. Lists are defined using square brackets **`[]`** and the elements are separated by commas. For example: **`[1, 2, 3, 4]`**
     
-    - List operations
+    - List properties
         1. Mutability: Lists are mutable, meaning their elements can be changed after they are created.
         2. Ordering: Lists maintain the order of their elements, so the first element of a list is always at index 0, the second element is at index 1, and so on.
         3. Indexing: Lists can be indexed just like strings, so you can access individual elements using square brackets.
