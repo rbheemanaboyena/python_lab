@@ -47,7 +47,7 @@
     By default, the **`print`** function adds a newline character at the end of the text it displays, which causes the text to be displayed on a new line. You can change this behavior by passing the **`end`** argument to the **`print`** function:
     
     ```
-    print("Hello, World!", end=""
+    print("Hello, World!", end="")
     ```
     
     This will cause the text to be displayed on the same line without a newline character at the end. You can also specify a different string to be used as the separator between multiple items passed to the **`print`** function, using the **`sep`** argument:
