@@ -229,7 +229,7 @@
         def greet(name):
             return "Hello " + name
         
-        print(greet("John")) # Output: HELLO JOHN
+        print(greet("Rajesh")) # Output: HELLO RAJESH
         ```
         
 - Argument types
