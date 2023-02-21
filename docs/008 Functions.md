@@ -193,6 +193,14 @@
         #         1
         #         2
         #         3
+        
+        def split_df(df, n):
+            for i in range(0, df.shape[0], n):
+                yield df[i:i + n]
+                
+        for batch in split_df(csv_data[cols][:50], batch_size):
+            pass
+        
         ```
         
     7. A nested function is a function that is defined inside another function. Nested functions are also known as inner function
