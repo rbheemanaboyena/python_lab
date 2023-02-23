@@ -47,3 +47,5 @@ django-admin startproject <project_name>
 ```python
 python [manage.py](http://manage.py) startapp <app_name>
 ```
+
+Refers the sample django project in projects dir
