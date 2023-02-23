@@ -11,7 +11,7 @@ Django is a high-level web framework written in Python that allows you to quickl
 
 ### Framework Folder Structure
 
-![Untitled](diagrams/django_file_struture.png))
+![Djanog File Structure loading](/diagrams/django_file_struture.png?raw=true)
 
 ### Creating Sample Applications
 
