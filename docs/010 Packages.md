@@ -168,3 +168,33 @@
     ```python
     import mypackage.mymodule
     ```
+    
+- PIP
+    
+    PIP stands for "Pip Installs Packages" or "Pip Installs Python". It is the standard package manager for Python and is used to install and manage software packages written in Python.
+    
+    Using PIP, you can install third-party packages that are not part of the Python standard library. These packages can be easily installed by running a simple command in your terminal or command prompt.
+    
+    Here are some common PIP commands:
+    
+    1. **`pip install <package-name>`** - This command is used to install a package. Simply replace **`<package-name>`** with the name of the package you want to install.
+    2. **`pip uninstall <package-name>`** - This command is used to uninstall a package.
+    3. **`pip list`** - This command is used to list all installed packages.
+    4. **`pip freeze`** - This command is used to list all installed packages and their versions in a format that can be easily used in a requirements.txt file.
+    5. **`pip search <search-term>`** - This command is used to search the Python Package Index (PyPI) for packages that match the given search term.
+    6. **`pip show <package-name>`** - This command is used to show information about a package, including its version, location, and dependencies.
+    
+    PIP can also be used to install packages from a requirements.txt file, which lists all the dependencies of a Python project. To install all the packages listed in a requirements.txt file, you can run the following command:
+    
+    ```python
+    pip install -r requirements.txt
+    
+    pip install numpy
+    pip uninstall numpy
+    pip list
+    pip freeze > requirements.txt
+    pip search web scraping
+    pip show numpy
+    ```
+    
+    Overall, PIP is an essential tool for any Python developer and makes it easy to manage dependencies and install third-party packages.
