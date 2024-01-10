@@ -1,5 +1,7 @@
 # Collections
 
+Collections in Python specifically refers to a set of high-level, built-in data structures, The collections module in Python is a module that provides specialized data structures as an extension to the built-in types (lists, tuples, sets, and dictionaries). It offers alternatives and enhancements to the basic data structures, providing more functionality and options for specific use cases.
+
 The **`collections`** module in Python provides alternative data structures that can be used in place of built-in data structures like lists, dictionaries, and tuples. These alternative data structures include:
 
 - **`Counter`**: a dictionary-like object that counts the occurrences of elements in a collection.
