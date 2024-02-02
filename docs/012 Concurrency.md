@@ -212,7 +212,7 @@
             
         - Handle GIL
             
-            The Global Interpreter Lock (GIL) can limit the performance of multithreaded Python programs, especially those that spend a lot of time inside CPU-bound Python functions. Here are a few ways to handle the GIL and improve the performance of multithreaded Python programs:
+            The Global Interpreter Lock (GIL) in CPython ensures that only one native thread can execute Python bytecode at a time, limiting true parallelism in multi-threaded Python programs, especially for CPU-bound tasks. Here are a few ways to handle the GIL and improve the performance of multithreaded Python programs:
             
             1. Use multiple processes instead of threads: One way to avoid the GIL is to use multiple processes instead of threads. Each process runs in its own separate memory space and has its own GIL, so you can fully utilize multiple CPU cores. The **`multiprocessing`** module in Python provides a way to create and manage multiple processes in your Python programs.
             2. Use C extensions: If you have performance-critical code that is CPU-bound, you can write it in C or C++ and call it from your Python code using C extensions. The C code will run outside the Python interpreter and will not be subject to the GIL, so you can fully utilize multiple CPU cores.
