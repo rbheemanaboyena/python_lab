@@ -50,7 +50,7 @@
             print(df)
             
             '''' 
-            name  age gender
+                  name  age gender
             0     Alice   25      F
             1       Bob   30      M
             2   Charlie   35      M
@@ -71,7 +71,7 @@
             print(df)
             
             '''
-            name  age gender
+                   name  age gender
             0     Alice   25      F
             1       Bob   30      M
             2   Charlie   35      M
@@ -130,7 +130,7 @@
             print(df)
             
             '''
-            name  age gender
+                  name  age gender
             0     Alice   25      F
             1       Bob   30      M
             2   Charlie   35      M
@@ -383,7 +383,7 @@
         print(df)
         
         '''
-        name  age  gender age_category
+             name  age  gender age_category
         0    Alice   25  female        young
         1      Bob   30    male  middle-aged
         2  Charlie   35    male  middle-aged
